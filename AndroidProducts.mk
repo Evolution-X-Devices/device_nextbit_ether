@@ -16,8 +16,8 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_ether.mk
+    $(LOCAL_DIR)/aosp_ether.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_ether-userdebug \
-    lineage_ether-eng
+    aosp_ether-userdebug \
+    aosp_ether-eng
